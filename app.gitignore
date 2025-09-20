@@ -1,0 +1,19 @@
+# ОС и IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Сборки/бинарники/артефакты
+build/
+dist/
+*.exe
+*.out
+*.class
